@@ -1,6 +1,6 @@
 // Images
 export { default as HeroBg } from './img/HeroBg.png'
-export { default as HeroBgSm } from './img/HeroBg-sm.png'
+export { default as HeroBgSm } from './img/HeroBG-sm.png'
 export { default as AboutImg1 } from './img/AboutImg1.png'
 export { default as AboutImg2 } from './img/AboutImg2.png'
 export { default as GalleryImg1 } from './img/GalleryImg1.png'
