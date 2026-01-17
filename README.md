@@ -24,7 +24,7 @@ This project is a redesign of the Fisker automobile company's website. The webpa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/juju-anselum/fisker.git
+   git clone https://github.com/anselumjuju/fisker.git
    cd fisker
    ```
 
